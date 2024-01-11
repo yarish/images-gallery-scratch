@@ -5,8 +5,10 @@
 .env.development.local
 .env.test.local
 .env.production.local
-.idea
+.idea/
 .idea/sonarlint/issuestore
 .idea/sonarlint/securityhotspotstore
 .eslintcache
 
+.idea/sonarlint/issuestore/index.pb
+.idea/sonarlint/securityhotspotstore/index.pb
